@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs"/>
 </p>
 
-https://t.me/skiddos
+https://kn7v.vercel.app/
 
 <br>
 
